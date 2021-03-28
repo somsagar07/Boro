@@ -1,6 +1,6 @@
 ### How to run:
 
-We have to run 2 commands simultaneouslsy suing terminal from the project folder, they are:
+We have to run 2 commands simultaneously using terminal from the project folder, they are:
 * npm start 
 * nodemon server/index.js
 
