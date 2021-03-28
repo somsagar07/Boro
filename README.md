@@ -11,6 +11,7 @@ Our project helps the user to place the things they want to lend others in their
 ## How we built it
 
 #### Frameworks Used:
+
 * React JS: Hooks, Axios
 * A JavaScript library called MapboxGL
 * Express JS(A node.js framework)
@@ -28,6 +29,7 @@ Our project helps the user to place the things they want to lend others in their
 
 ## Accomplishments that we're proud of:
 
+* In summary, we made a full stack MERN application :)
 * Made a fully functionally MERN Stack Application
 * Provided an affordable easy to use solution for the world's waste management problem
 * Found and used an alternative for Google Maps (as they have started charging money for using Maps)
