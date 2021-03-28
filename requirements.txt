@@ -1,0 +1,15 @@
+All external dependencies used    
+
+    body-parser
+    cors
+    express 
+    mongoose
+    nodemon
+    @mapbox/mapbox-gl-directions
+    axios
+    bootstrap
+    mapbox-gl
+    react-bootstrap
+    react-particles-js
+    react-router
+    react-router-dom
