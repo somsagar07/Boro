@@ -1,3 +1,9 @@
+How to run:
+
+We have to run 2 commands simultaneouslsy suing terminal from the project folder, they are:
+1. npm start 
+2. nodemon server/index.js
+
 What it does
 
 Our project helps the user to place the things they want to lend others in their locality or you can also borrow from others.
