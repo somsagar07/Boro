@@ -15,7 +15,6 @@ Our project helps the user to place the things they want to lend others in their
 * A JavaScript library called MapboxGL
 * Express JS(A node.js framework)
 
-* This uses the ‘haversine’ formula to calculate the great-circle distance between two points
 
 #### Database Used:
 * MongoDB
@@ -32,6 +31,7 @@ Our project helps the user to place the things they want to lend others in their
 * Made a fully functionally MERN Stack Application
 * Provided an affordable easy to use solution for the world's waste management problem
 * Found and used an alternative for Google Maps (as they have started charging money for using Maps)
+* This uses the ‘haversine’ formula to calculate the great-circle distance between two points
 
 ## What we learned
 
