@@ -1,6 +1,7 @@
 ### How to run:
 
-We have to run 2 commands simultaneously using terminal from the project folder, they are:
+Firsty, install all the external dependencies mentioned in **requirements.txt**.
+Then, we have to run 2 commands simultaneously using terminal from the project folder, they are:
 * npm start 
 * nodemon server/index.js
 
