@@ -13,7 +13,9 @@ Our project helps the user to place the things they want to lend others in their
 Frameworks Used:
 
 1.React JS: Hooks, Axios
+
 2.A JavaScript library called MapboxGL
+
 3. Express JS(A node.js framework)
 --------we basically created a full-stack application with MERN
 
