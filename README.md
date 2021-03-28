@@ -1,4 +1,4 @@
-###How to run:
+### How to run:
 
 We have to run 2 commands simultaneouslsy suing terminal from the project folder, they are:
 1. npm start 
