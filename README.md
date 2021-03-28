@@ -30,6 +30,7 @@ Frameworks Used:
 
 1.Making use of MapboxGL in react hooks due to limited tutorials
 
+
 2.Making sure the data is always up and running so that it doesn't just go on every refresh
 
 3.Stopping the infinite looping of fetching data from a http req when using Axios
