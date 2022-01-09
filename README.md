@@ -12,7 +12,7 @@ Our project helps the user to place the things they want to lend others in their
 
 #### Frameworks Used:
 
-* React JS: Hooks, Axios
+* React JS: Hooks, Axios,map-api.
 * A JavaScript library called MapboxGL
 * Express JS(A node.js framework)
 
